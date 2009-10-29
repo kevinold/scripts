@@ -2,7 +2,7 @@
 
 # Download and install Git
 
-version=1.6.4.4
+version=1.6.5.2
 cd /tmp
 wget http://www.kernel.org/pub/software/scm/git/git-$version.tar.bz2
 wget http://www.kernel.org/pub/software/scm/git/git-manpages-$version.tar.bz2
